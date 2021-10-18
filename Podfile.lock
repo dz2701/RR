@@ -1,0 +1,22 @@
+PODS:
+  - Kingfisher (7.1.1)
+  - SQLite.swift (0.13.0):
+    - SQLite.swift/standard (= 0.13.0)
+  - SQLite.swift/standard (0.13.0)
+
+DEPENDENCIES:
+  - Kingfisher (~> 7.0)
+  - SQLite.swift (~> 0.13.0)
+
+SPEC REPOS:
+  trunk:
+    - Kingfisher
+    - SQLite.swift
+
+SPEC CHECKSUMS:
+  Kingfisher: f738f9c4a3415823b8e2985d10aa2d6a9f37bc4d
+  SQLite.swift: 8add701609fd0ef78d097dcc75d20a9782e6f5fc
+
+PODFILE CHECKSUM: 19e484b5d9f6bb63fdfdf099542c9eacb1a3d439
+
+COCOAPODS: 1.10.2
